@@ -1,0 +1,1 @@
+int multiplicar(int num1, int num2);
